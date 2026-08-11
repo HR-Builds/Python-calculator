@@ -1,6 +1,6 @@
 # 🧮 Python Calculator
 
-A modern calculator application built with Python and Tkinter.
+A Modern calculator application built with Python and Tkinter.
 
 ## Features
 
